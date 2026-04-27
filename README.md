@@ -5,7 +5,7 @@
 
 # <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> I'm Chaitanya Wadnerkar
 
-<h3 align="left"> Full Stack Developer | ML Enthusiast | Cloud Infrastructure Engineer | .NET Developer</h3>
+<h3 align="left"> Full Stack Developer | ML Enthusiast | Cloud Infrastructure Engineer | PythonDeveloper</h3>
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
 <!-- About -->
@@ -16,9 +16,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=C-Wad22&label=Profile%20views&color=0e75b6&style=flat" alt="aryamsoni13" /> </p>
 
 - 🔭 I’m currently working on **Gemini Based AI Model**
-- 🌱 I’m currently learning **C++, Full Stack Development, ML Development, Oracle Cloud Infrastructure, .NET Development**
+- 🌱 I’m currently learning **C++, Full Stack Development, ML Development, Oracle Cloud Infrastructure, Pythoon Development**
 - 👨‍💻 All of my projects are available at[ Github](https://github.com/C-Wad22)
-- 💬 Ask me about **C++, Java, Python, React, JavaScript, Tailwind, Node Js, MongoDB, Machine Learning, OCI**
+- 💬 Ask me about **C++, Java, Python, HTML,CSS, JavaScript, MySQL, Numpy,Pandas, Machine Learning, OCI**
 - 📫 How to reach me Chaitanyaw1015@gmail.com
 - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1MHSWE-nJXw9jFiOXvKwErM9L_4zRWC3D/view?usp=drive_link)
 -
