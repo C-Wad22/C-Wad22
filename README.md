@@ -19,9 +19,9 @@
 - 🌱 I’m currently learning **C++, Full Stack Development, ML Development, Oracle Cloud Infrastructure, .NET Development**
 - 👨‍💻 All of my projects are available at[ Github](https://github.com/C-Wad22)
 - 💬 Ask me about **C++, Java, Python, React, JavaScript, Tailwind, Node Js, MongoDB, Machine Learning, OCI**
-- 📫 How to reach me aryansoni26827@gmail.com
-- 📄 Know about my experiences [Resume](https://github.com/C-Wad22/Aryan_Soni_Resume/blob/main/Aryan_Soni_Resume.pdf)
-- 📑 My Portfolio [Portfolio](https://aryan-soni-portfolio.vercel.app)
+- 📫 How to reach me Chaitanyaw1015@gmail.com
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1MHSWE-nJXw9jFiOXvKwErM9L_4zRWC3D/view?usp=drive_link)
+-
 
 <br/>
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
@@ -47,14 +47,15 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="center">
-<a href="https://www.linkedin.com/in/aryan-soni-26794924a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/aryan-soni-26794924a/" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/aryan_269269" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="aryan_269269" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/aryansoni245032" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="aryansoni245032" height="30" width="40" /></a>
-  <a href="https://kaggle.com/aryansoni1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="aryansoni1" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/aryansoni26827" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="aryansoni26827" height="30" width="40" /></a>
-<a href="https://twitter.com/aaaryan11" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="aaaryan11" height="30" width="40" /></a>
-<a href="https://instagram.com/iaryan_soni" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="iaryan_soni" height="30" width="40" /></a>
-</p>
+<a href="https://www.linkedin.com/in/chaitanya-wadnerkar/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BIS65OICKSjy8dyKqPxUhfQ%3D%3D" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/chaitanya-wadnerkar/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BIS65OICKSjy8dyKqPxUhfQ%3D%3D" height="30" width="40" /></a> <!--Linkedin -->
+
+<a href="https://www.geeksforgeeks.org/profile/chaitanyjd6q" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="Chaitanya Wadnerkar" height="30" width="40" /></a> <!--gfg -->
+  
+<a href="https://www.kaggle.com/chaitanyawadnerkar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="Chaitanya Kaggle" height="30" width="40" /></a>   <!--Kaggle -->
+
+<a href="https://x.com/chaitanyaw1015" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://x.com/chaitanyaw1015" height="30" width="40" /></a>  <!--Twitter -->
+<a href="https://www.instagram.com/chaitanyawadnerkar?igsh=MXVza2JjYnhnbTVsdQ==" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="(https://www.instagram.com/chaitanyawadnerkar?igsh=MXVza2JjYnhnbTVsdQ==)" height="30" width="40" /></a>
+</p>  <!--instagram -->
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="right">
@@ -69,13 +70,7 @@
 <br/>
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
-<!-- Leetcode Stats -->
 
-## LeetCode Stats
-
-![LeetCode Stats](https://leetcard.jacoblin.cool/ARYAN_269269?theme=dark&font=Noto%20Serif)
-<br/>
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
 <!--Random Quotes -->
 
@@ -84,7 +79,7 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 <br/>
 
-<!-- Github Trophies 
+<!-- Github Trophies
 # <img src="https://user-images.githubusercontent.com/74038190/216112957-034e1f8b-5468-4857-8512-9cd2bac35bb6.png" alt="Handshake" width="40" /> Gɪᴛʜᴜʙ Tʀᴏᴘʜɪᴇs 🏆
 <p align="center">
   <a href="https://github.com/C-Wad22">
